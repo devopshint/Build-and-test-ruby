@@ -1,2 +1,1 @@
-# Build-and-test-ruby
-How to Build and test ruby
+# build-and-test-ruby-github-actions
